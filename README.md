@@ -11,4 +11,4 @@ Android App : Phone Book
 5. ผู้ใช้งานสามารถเลือกได้ว่าจะนำเบอร์ที่ลบไปกลับคืนมาหรือจะลบถาวรในหน้าของถังขยะ
 6. ผู้ใช้งานสามารถเปลี่ยนธีมของแอพได้
 
-demonstrative using video : 
+demonstrative using video : https://youtu.be/Cx1TbWe5WuM
